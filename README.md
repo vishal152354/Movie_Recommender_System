@@ -1,4 +1,5 @@
-
+![nm1](https://github.com/user-attachments/assets/da2a68ac-8799-4033-a27e-68043e5684af)
+![nm2](https://github.com/user-attachments/assets/7b52756d-c48f-4c3a-a3af-22074cec18db)
 
 
 # Movie Recommender System
