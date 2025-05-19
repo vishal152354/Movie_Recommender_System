@@ -1,5 +1,4 @@
-![nm1](https://github.com/user-attachments/assets/da2a68ac-8799-4033-a27e-68043e5684af)
-![nm2](https://github.com/user-attachments/assets/7b52756d-c48f-4c3a-a3af-22074cec18db)
+
 
 
 # Movie Recommender System
@@ -9,6 +8,9 @@ Unlock Your Next Favorite Film! Our NLP-powered Movie Recommendation Web App del
 ## Project Overview
 
 Our Movie Recommender System, built using Python and Natural Language Processing (NLP), offers a user-friendly way to discover your next favorite movie. We utilize the bag-of-words concept to generate movie recommendations based on factors like similarity, tags, genre, and production company. Additionally, you can access detailed information about each movie and its cast.
+
+![nm1](https://github.com/user-attachments/assets/da2a68ac-8799-4033-a27e-68043e5684af)
+![nm2](https://github.com/user-attachments/assets/7b52756d-c48f-4c3a-a3af-22074cec18db)
 
 
 
